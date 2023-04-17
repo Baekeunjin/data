@@ -1,0 +1,67 @@
+{
+  "data":[
+    { 
+      "id":1, 
+      "name":"FLADDRIG 플라드리그",
+      "img":"https://www.ikea.com/kr/ko/images/products/fladdrig-lunch-bag-striped-multicolour__1158023_pe887964_s5.jpg",
+      "price":1000,
+      "category":"kitchen"
+    },
+    { 
+      "id":2, 
+      "name":"BARNASINNE 바르나신네",
+      "img":"https://www.ikea.com/kr/ko/images/products/barnasinne-spice-mill-black-white__1114947_pe871876_s5.jpg",
+      "price":5000,
+      "category":"kitchen"
+    },
+    { 
+      "id":3, 
+      "name":"FEJKA 페이카",
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-hanging__0748531_pe745054_s5.jpg",
+      "price":5800,
+      "category":"deco"
+    },
+    { 
+      "id":4, 
+      "name":"RINNIG 린니그",
+      "img":"https://www.ikea.com/kr/ko/images/products/rinnig-cleaning-gloves-green__0930407_pe790749_s5.jpg",
+      "price":1700,
+      "category":"clean"
+    },
+    { 
+      "id":5, 
+      "name":"SMYCKA 스뮈카",
+      "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-flower-carnation-white__0903135_pe596691_s5.jpg",
+      "price":1900,
+      "category":"deco"
+    },
+    { 
+      "id":6, 
+      "name":"NYSKÖLJD 뉘셸리드",
+      "img":"https://www.ikea.com/kr/ko/images/products/nyskoeljd-dish-drying-mat-blue__0897781_pe661867_s5.jpg",
+      "price":3000,
+      "category":"kitchen"
+    },
+    { 
+      "id":7, 
+      "name":"RINNIG 린니그",
+      "img":"https://www.ikea.com/kr/ko/images/products/rinnig-dish-drainer-double-sided__0897660_pe682384_s5.jpg",
+      "price":4900,
+      "category":"kitchen"
+    },
+    { 
+      "id":8, 
+      "name":"LILLNAGGEN 릴나겐",
+      "img":"https://www.ikea.com/kr/ko/images/products/lillnaggen-squeegee__0711844_pe728517_s5.jpg",
+      "price":2000,
+      "category":"clean"
+    },
+    { 
+      "id":9, 
+      "name":"BINTJE 빈셰",
+      "img":"https://www.ikea.com/kr/ko/images/products/bintje-plant-pot-galvanised__0899418_pe724767_s5.jpg",
+      "price":500,
+      "category":"deco"
+    }
+  ]
+}
